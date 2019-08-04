@@ -1,0 +1,11 @@
+D:\NumerosPorExtenso\bin\Debug\netcoreapp2.1\NumerosPorExtenso.deps.json
+D:\NumerosPorExtenso\bin\Debug\netcoreapp2.1\NumerosPorExtenso.runtimeconfig.json
+D:\NumerosPorExtenso\bin\Debug\netcoreapp2.1\NumerosPorExtenso.runtimeconfig.dev.json
+D:\NumerosPorExtenso\bin\Debug\netcoreapp2.1\NumerosPorExtenso.dll
+D:\NumerosPorExtenso\bin\Debug\netcoreapp2.1\NumerosPorExtenso.pdb
+D:\NumerosPorExtenso\obj\Debug\netcoreapp2.1\NumerosPorExtenso.csprojAssemblyReference.cache
+D:\NumerosPorExtenso\obj\Debug\netcoreapp2.1\NumerosPorExtenso.csproj.CoreCompileInputs.cache
+D:\NumerosPorExtenso\obj\Debug\netcoreapp2.1\NumerosPorExtenso.AssemblyInfoInputs.cache
+D:\NumerosPorExtenso\obj\Debug\netcoreapp2.1\NumerosPorExtenso.AssemblyInfo.cs
+D:\NumerosPorExtenso\obj\Debug\netcoreapp2.1\NumerosPorExtenso.dll
+D:\NumerosPorExtenso\obj\Debug\netcoreapp2.1\NumerosPorExtenso.pdb
